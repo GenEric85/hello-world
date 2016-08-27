@@ -1,2 +1,3 @@
 # hello-world
-first repository to experimental purposes
+first repository for experimental purposes
+here I go again on my own!
